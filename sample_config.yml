@@ -1,15 +1,15 @@
 ##############################
 # Please edit this line to "not_sample_anymore" to make the bot run
-is_example_config_or_not: "Ahhhhhhhhhhh i am not blind so i'll follow what the line above me asked"
+is_example_config_or_not: "not_sample_anymore"
 ##############################
-bot_token: "Your bot token"
-api_key: ''
-api_hash: ''
-owner_id: 123456
-owner_username: "OWNER USERNAME"
-message_dump: "CHAT ID"
-system_dump: "CHAT ID"
-gban_dump: "CHAT ID"
+bot_token: "1290469600:AAFQnCOzgx5FeT8RljkZ6Zh8qFk5zVolq-M"
+api_key: '1310683'
+api_hash: 'b735d306fc6ee8773aedf5022224bcea'
+owner_id: 762834285
+owner_username: "@tonyironstark"
+message_dump: "-1001386416256""
+system_dump: "-1001386416256""
+gban_dump: "-1001386416256""
 load: []
 no_load: []
 strict_antispam: False
@@ -20,9 +20,9 @@ weather_api: ''
 lastfm_api_key: ''
 
 # Database
-database_url: "postgres://username:password@host:5432/database_name"
+database_url: "postgres://vhpwmmzitawhsa:9bb460f65c3e964414f38bf63147f9fb5f0089f5a60c7aa03014645d2c9caf39@ec2-35-168-77-215.compute-1.amazonaws.com:5432/dcd71af8lgerlu"
 
 # Permission
-sudo_users: []
-support_users: []
-whitelist_users: []
+sudo_users: [762834285]
+support_users: [762834285]
+whitelist_users: [762834285]
