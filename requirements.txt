@@ -21,7 +21,6 @@ bs4
 jikanpy
 python-rapidjson
 zalgo-text
-pyrate-limiter
 psycopg2-binary
 hurry.filesize
 beautifulsoup4
