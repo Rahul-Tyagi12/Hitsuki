@@ -37,11 +37,7 @@ LOGGER = logging.getLogger(__name__)
 LOGGER.info("Starting Hitsuki...")
 
 # If Python version is < 3.6, stops the bot.
-if sys.version_info[0] < 3 or sys.version_info[1] < 8:
-    LOGGER.error(
-        "You MUST have a python version of at least 3.8! Multiple features depend on this. Bot quitting."
-    )
-    sys.exit(1)
+
 
 # Load config
 try:
