@@ -7,9 +7,9 @@ api_key: '1310683'
 api_hash: 'b735d306fc6ee8773aedf5022224bcea'
 owner_id: 762834285
 owner_username: "@tonyironstark"
-message_dump: "-1001386416256""
-system_dump: "-1001386416256""
-gban_dump: "-1001386416256""
+message_dump: "-1001386416256"
+system_dump: "-1001386416256"
+gban_dump: "-1001386416256"
 load: []
 no_load: []
 strict_antispam: False
